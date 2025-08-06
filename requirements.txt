@@ -4,3 +4,4 @@ pandas
 PyMuPDF
 Pillow
 openpyxl
+pdf2image
