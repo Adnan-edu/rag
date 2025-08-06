@@ -5,3 +5,4 @@ PyMuPDF
 Pillow
 openpyxl
 pdf2image
+faiss-cpu
