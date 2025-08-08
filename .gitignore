@@ -265,7 +265,7 @@ logs/
 log/
 
 # Data files
-data/
+
 datasets/
 *.csv
 *.json
@@ -319,3 +319,4 @@ docker-compose.override.yml
 local/
 dev/
 development/ 
+*.pkg

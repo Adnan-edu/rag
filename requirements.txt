@@ -12,3 +12,5 @@ langchain-openai
 unstructured[all-docs]
 python-docx
 python-pptx
+pypandoc
+pandoc
