@@ -6,3 +6,7 @@ Pillow
 openpyxl
 pdf2image
 faiss-cpu
+langchain
+langchain-community
+langchain-openai
+unstructured[all-docs]
