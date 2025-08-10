@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Multimodel_RAG_Project_overview.png" alt="Multimodal RAG Project Overview" width="600"/>
+</p>
+
+
 ### 🚀 **Project Overview: Multimodal RAG on a Video Course**
 
 This project masterfully demonstrates how to build a Multimodal RAG system from scratch. The goal is to take a video file (`decision-making-course.mp4`), process its audio and visual components, and create a system that can answer questions about its content by retrieving relevant text and images to feed into a generative AI model.
