@@ -1,4 +1,4 @@
-### 🎯 Introduction: The "Why" Behind RAGAS
+# 🎯 Introduction: The "Why" Behind RAGAS
 
 Retrieval Augmented Generation (RAG) systems are powerful, but they can be prone to issues like **hallucination, irrelevant answers, or missing key facts**. Simply observing a few good outputs isn't enough to trust a system. This is where **RAGAS (Retrieval Augmented Generation Assessment Suite)** comes in.
 

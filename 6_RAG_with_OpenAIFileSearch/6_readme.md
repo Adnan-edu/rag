@@ -1,4 +1,4 @@
-## 🤖 Project Analysis: RAG with OpenAI's Native File Search
+# 🤖 Project Analysis: RAG with OpenAI's Native File Search
 
 This project demonstrates a streamlined and powerful approach to building a **Retrieval-Augmented Generation (RAG)** system by leveraging the **OpenAI Assistants API** and its integrated **File Search** capabilities. Instead of manually building each component of the RAG pipeline, this notebook showcases how to use OpenAI's managed services to achieve the same goal with significantly less code and complexity.
 

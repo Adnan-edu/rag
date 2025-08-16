@@ -1,4 +1,4 @@
-### 🚀 Project Overview: Building Knowledge Graphs with LightRAG
+# 🚀 Project Overview: Building Knowledge Graphs with LightRAG
 
 This project provides a comprehensive walkthrough of using the `LightRAG` library to automatically construct and query a Knowledge Graph (KG) from unstructured text. The notebook uses a document about Greek mythology (`Greek-gods-story.pdf`) as its source data. The entire process, from data ingestion to interactive graph visualization, is demonstrated, highlighting the power and simplicity of the `LightRAG` framework.
 
