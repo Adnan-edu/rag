@@ -21,6 +21,8 @@ Whether you're looking to automate data extraction, build intelligent chatbots, 
 7. [🤖 Agentic RAG: Building an Intelligent Restaurant Server](#-agentic-rag-building-an-intelligent-restaurant-server)
 8. [🚀 Project Overview: Building Knowledge Graphs with LightRAG](#-project-overview-building-knowledge-graphs-with-lightrag)
 9. [🎯 Introduction: The "Why" Behind RAGAS](#-introduction-the-why-behind-ragas)
+10. [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -1201,3 +1203,11 @@ This is the power of RAGAS in a nutshell. We've moved from "it seems to work" to
 3.  **Fine-tuning:** Fine-tuning the generation model on a dataset that rewards faithfulness.
 
 By providing these component-level insights, RAGAS empowers developers to build more robust, effective, and trustworthy RAG systems. ✨
+
+
+<a id="acknowledgments"></a>
+## ![Credits Badge](https://img.shields.io/badge/Credits-DiogoResende-blue?style=flat-square)
+
+The content is based on Diogo's comprehensive RAG for LLMs course and reflects his expertise in making complex RAG concepts accessible through practical, hands-on examples.
+
+Visit [Diogo's profile](https://zerotomastery.io/about/instructor/diogo-resende/) for more resources on AI.
