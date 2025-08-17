@@ -1,7 +1,7 @@
 # RAG (Retrieval Augmented Generation) for LLMs
 
 <p align="center">
-  <img src="rag.png" alt="RAG Title Image" width="800"/>
+  <img src="rag_title.png" alt="RAG Title Image" width="800"/>
 </p>
 
 
