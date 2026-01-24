@@ -23,6 +23,10 @@ Whether you're looking to automate data extraction, build intelligent chatbots, 
 9. [🎯 Introduction: The "Why" Behind RAGAS](#-introduction-the-why-behind-ragas)
 10. [Acknowledgments](#acknowledgments)
 
+---
+
+🚀✨ [`multi_agent_deep_rag`](https://github.com/Adnan-edu/multi_agent_deep_rag) is a hands-on Multi-Modal Deep Agent project focused on **Langchain v1 AI Agents, Multi-Modal Deep Agents, Multi Agent Deep Advanced RAG, Google Gemini 3, OpenAI, Qdrant, Docker, Docling**.  
+👉 For more details and to explore the code, head over to the repository!
 
 ---
 
