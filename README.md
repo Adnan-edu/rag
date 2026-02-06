@@ -30,6 +30,11 @@ Whether you're looking to automate data extraction, build intelligent chatbots, 
 
 ---
 
+🚀✨ [`AI Engineer MLOps Track: Deploy Gen AI & Agentic AI at Scale`](https://github.com/Adnan-edu/ai-eng-ops) is a production-grade AI Engineering & MLOps workspace focused on Multi-Agent Systems, AWS Bedrock, OpenAI Agents SDK, Terraform, Docker, Model Context Protocol (MCP), Serverless Architecture, and Advanced RAG for real-world applications.  
+👉 For more details and to explore the code, head over to the repository!
+
+---
+
 # 🍽️ Restaurant Menu Automation Project: From Images to Excel with GenAI ✨
 
 This project offers an innovative solution to automate the conversion of restaurant menus from images or PDFs into structured Excel files, significantly reducing the need for manual data entry. This free service is designed to help restaurants quickly generate upload-ready spreadsheets, thereby saving time and costs. The primary goal is to transform unstructured menu data into a clean, consistent, and usable tabular format for further analysis or integration.
